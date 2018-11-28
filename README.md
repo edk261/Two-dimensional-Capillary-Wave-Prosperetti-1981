@@ -1,7 +1,7 @@
 # Two-dimensional-Capillary-Wave-Prosperetti-1981
 
 Script to calculate the dispersion of a single capillary wave based on the initial-value problem [1] 
-for one-fluid case (setting density and viscosity of the upper fluid to 0).
+for two-fluid case with equal kinematic viscosity and one-fluid case (setting density and viscosity of the upper fluid to 0).
 
 Inspired from Matlab Script [2,3] by Dr. Fabian Denner, Dept. Mechanical Engineering, Imperial College London
 
